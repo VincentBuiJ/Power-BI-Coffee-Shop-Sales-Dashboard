@@ -26,3 +26,8 @@ The dashboard helps compare revenue, transactions, product categories, and store
 - Comparing sales across products and store locations.
 - Using filters to explore data.
 - Finding useful information from sales data.
+
+  ## Dashboard Preview
+
+![Coffee Shop Sales Dashboard](Coffee_Shop_Dashboard.png)
+
